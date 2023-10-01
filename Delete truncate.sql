@@ -1,4 +1,4 @@
-create database JSSATE;
+2create database JSSATE;
 use JSSATE;
 create table student(Regno int,Name varchar(20),Mark1 int,Mark2 int,Total int,primary key(Regno));
 insert into student values(001,'Arav',80,80,160);
